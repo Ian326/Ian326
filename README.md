@@ -33,3 +33,6 @@
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ian326&theme=onedark&column=5&no-bg=true" alt="ian326" /></a> </p>
 
+<p align="center">
+        <a> <img align="center" src="https://github.com/Ian326/Ian326/blob/output/github-contribution-grid-snake-dark.svg"> </a>
+</p>
