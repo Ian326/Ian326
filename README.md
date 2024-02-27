@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Padrón Corona!</h1>
 <h3 align="center">A passionate backend developer from Mexico</h3>
 
-- I'm currently working for [Roberto Ruiz Obregon App](https://github.com/Roberto-Ruiz-Obregon-Tec)
+- I'm currently working for [BlackDot 2024](https://github.com/Black-Dot-2024)
 
-- 🌱 I’m currently learning **Java, Angular, Typescript, Swift/SwiftUI, MongoDB, Postgresql**
+- 🌱 I’m currently learning **Java, Angular**
 
 - 📫 How to reach me ---> **ianpc2003@gmail.com**
 
