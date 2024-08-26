@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ian Padrón Corona!</h1>
-<h3 align="center">A passionate backend developer from Mexico</h3>
+<h3 align="center">A passionate developer from Mexico ❤️‍🔥</h3>
 
-- I'm currently working for [BlackDot 2024](https://github.com/Black-Dot-2024)
+- 🏢 I had previously worked for [BlackDot 2024](https://github.com/Black-Dot-2024)
 
-- 🌱 I’m currently learning **Java, Angular**
+- 🌱 I’m currently learning **Java, Data Analysis**
 
 - 📫 How to reach me ---> **ianpc2003@gmail.com**
 
