@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ian Padrón Corona!</h1>
 <h3 align="center">A passionate developer from Mexico ❤️‍🔥</h3>
 
-- 🏢 I had previously worked for [BlackDot 2024](https://github.com/Black-Dot-2024)
+- 🏢 I have previously worked for [BlackDot 2024](https://github.com/Black-Dot-2024)
 
 - 🌱 I’m currently learning **Java, Data Analysis**
 
