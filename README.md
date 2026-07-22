@@ -17,8 +17,8 @@
 
 <h3 align="left">Stats:</h3>
 <p align="center">
-        <a href="https://github.com/anuraghazra/github-readme-stats">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ian326&show_icons=true&locale=en&theme=transparent&card_width=350px" />
+        <a href="https://github.com/stats-organization/github-stats-extendeds">
+          <img height=200 align="center" src="https://github-readme-stats-extended.vercel.app/api?username=ian326&show_icons=true&locale=en&theme=transparent&card_width=350px" />
         </a>
         <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
           <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Ian326&theme=transparent&hide_border=false&card_width=350px" />
