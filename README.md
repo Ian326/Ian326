@@ -27,7 +27,7 @@
 
 <p align="center">
         <a href="https://github.com/anuraghazra/convoychat">
-          <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ian326&show_icons=true&locale=en&layout=compact&theme=transparent&card_width=350" />
+          <img height=200 align="center" src="https://github-stats-extended.vercel.app/api/top-langs?username=ian326&show_icons=true&locale=en&layout=compact&theme=transparent&card_width=350" />
         </a>
 </p>
 
