@@ -3,7 +3,7 @@
 
 - 🏢 I have previously worked for [BlackDot 2024](https://github.com/Black-Dot-2024)
 
-- 🌱 I’m currently learning **Java, Data Analysis**
+- 🌱 I’m currently learning **Java/Spring**
 
 - 📫 How to reach me ---> **ianpc2003@gmail.com**
 
